@@ -90,8 +90,4 @@
             </plugin>
         </plugins>
     </reporting>
-
-<!--
-something here
->
 </project>
